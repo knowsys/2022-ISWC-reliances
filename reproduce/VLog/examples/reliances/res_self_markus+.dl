@@ -1,0 +1,1 @@
+D(W, Q), C(V, T), R(X, V, W), R(X, X, W), A(V) :- B(X)

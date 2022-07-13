@@ -1,0 +1,1 @@
+vlog.exe mat --ordered 1 --rules ..\examples\test\counter\rules.dlog --edb ..\examples\test\counter\weird.conf --storemat_path ..\output\weird --storemat_format csv

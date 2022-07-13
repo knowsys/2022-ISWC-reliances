@@ -1,0 +1,1 @@
+java -cp ../build/'*' karmaresearch.vlog.Test

@@ -1,0 +1,11 @@
+A(X) :- EA(X) 
+C(X) :- EC(X)
+S(X) :- ES(X)
+T(X) :- ET(X)
+B(X, Y) :- EB(X, Y)
+D(X, Y) :- ED(X, Y)
+
+B(X, Y), S(X) :- A(X) 
+D(X, Y), T(X) :- C(X)
+D(Y, Y) :- S(X), C(Y)
+B(Y, Y) :- T(X), A(Y)

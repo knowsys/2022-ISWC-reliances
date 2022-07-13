@@ -1,0 +1,2 @@
+H(X, V, const) :- B(X)
+C(Y, Z) :- H(Y, Z, Z)

@@ -1,0 +1,1 @@
+q(X,U,V), q(X,W,V), r(U,V,W) :- p(X)

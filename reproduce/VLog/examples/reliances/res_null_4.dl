@@ -1,0 +1,2 @@
+H(X, V, W), B(Y, W) :- A(X, Y)
+H(X, V, V) :- C(X)

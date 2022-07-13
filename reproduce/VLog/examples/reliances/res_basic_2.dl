@@ -1,0 +1,2 @@
+H(X, V, W), B(Y, W, const) :- A(X, Y)
+H(X, Y, W), B(X, W, const) :- C(X, Y)
