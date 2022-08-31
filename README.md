@@ -4,7 +4,7 @@ This repository contains the supplementary material for the paper "Efficient Dep
 
 ## Access the paper
 
-You can find the paper here: 
+You can find the paper here: https://arxiv.org/abs/2207.09669
 
 ## Experimental data
 
